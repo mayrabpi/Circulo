@@ -28,7 +28,7 @@ public class Main {
 			
 			if (opcion == 1) {
 				circulo1.CalcularArea();
-				System.out.println ("el area del circulo de " + radio + " es " + circulo1.getArea());
+				System.out.println ("el area del circulo de: " + radio + " es " + circulo1.getArea());
 				
 				
 				

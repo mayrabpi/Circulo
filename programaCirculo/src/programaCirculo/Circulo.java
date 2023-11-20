@@ -26,7 +26,7 @@ public class Circulo {
 		
 	}
 	/**
-	 * Este metodo retorna el area
+	 * Este metodo retorn el area
 	 * @return
 	 */
 	
